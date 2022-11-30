@@ -1,35 +1,5 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@kattisarika 
-We are having a problem billing your account. Please enter a new payment method or check with your payment provider for details on why the transaction failed. You can downgrade to GitHub Free in your Billing settings.
-You can always contact support with any questions.
-kattisarika
-/
-HipSack
-Public
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-HipSack/css/style.css
-@kattisarika
-kattisarika Update style.css
-Latest commit b414b65 on Jun 9, 2020
- History
- 1 contributor
-1205 lines (1016 sloc)  19.2 KB
+
+
 
 body {
     background: hsl(0, 0%, 90%);
@@ -440,7 +410,7 @@ Banner
     padding: 2em 2em 0;
     color: white;
     text-shadow: 2px 2px 2px black;
-    background: url('../images/oolith.jpeg') top left no-repeat;
+    background: url('../oolith.jpeg') top left no-repeat;
     /* background-size: cover;
     background-position: center;*/
 }
